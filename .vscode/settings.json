@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "dllist.h": "c",
+    "typeinfo": "c",
+    "stdlib.h": "c",
+    "gendll.h": "c"
+  }
+}
